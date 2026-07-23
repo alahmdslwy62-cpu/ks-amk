@@ -10,7 +10,7 @@
     body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
 </style>
 <meta charset="UTF-8">
-<title>Hacked By ABU OMAR</title>
+<title>Hacked By ka amk adnan </title>
 <style>
     *{margin:0;padding:0;box-sizing:border-box}
     body{
@@ -94,7 +94,7 @@
 </div>
 <div class="hacked">
 "Hacked By [ "
-<span class="name">ABU OMAR</span>
+<span class="name">ka amk adnan</span>
 " ]"
 </div>
 <div class="discord">
